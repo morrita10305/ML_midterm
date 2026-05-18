@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-ie36qt)
 
-main code在ML_midterm_v2.ipynb
+main code在ML_mid_v2.ipynb
 主要是用colab 資料集用掛載的 github上有改成直接抓取雲端資料集
 
 如果抓不到的話可以到這邊確認：
